@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'ClashDisplay-Medium';
+    src: url('../fonts/ClashDisplay-Medium.woff2') format('woff2'),
+         url('../fonts/ClashDisplay-Medium.woff') format('woff'),
+         url('../fonts/ClashDisplay-Medium.ttf') format('truetype');
+         font-weight: 500;
+         font-display: swap;
+         font-style: normal;
+  }
+
+  <!--- Regular Button -->
+  .btn-downloader{
+    padding: 18px 46px;
+    font-family: 'ClashDisplay-Medium';
+    font-size: 38px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    transition: all .5s ease-in-out;
+  }
+  .btn-downloader:hover{
+    background-color: #F55;
+  }
+  .btn-get-start{
+    padding: 16px 46px;
+    font-family: 'ClashDisplay-Medium';
+    font-size: 18px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-transform: capitalize;
+  }
+  .btn-get-start:hover{
+    background-color: #F55;
+  }
+  .btn-watch{
+    padding: 16px 46px;
+    font-family: 'ClashDisplay-Medium';
+    font-size: 18px;
+    transition: all .5s ease-in-out;
+    text-transform: capitalize;
+    border: none;
+    background-color: #fff;
+  }
+  .btn-watch i{
+    margin-right: 13.5px;
+    padding: 10px 10px;
+    border: 1px solid #000;
+    font-size: 20px;
+    border-radius: 50%;
+    transition: all .5s ease-in-out;
+  }
+  .btn-watch i:hover{
+    background-color: #F55;
+    border: none;
+    color: #fff;
+  }
+
+  /*------Style Start ---------*/
+
+  /*------- Start Style Nav ----------*/
+  .navbar-nav .nav-item .active{
+    color: brown !important;
+}
+ .nav-item{
+    font-family: 'ClashDisplay-Medium';
+    font-size: 20px;
+    padding: 0px 10px;
+  }
+  
+
+
