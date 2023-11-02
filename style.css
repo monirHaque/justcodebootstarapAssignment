@@ -148,4 +148,528 @@
     margin-right: 8px;
 }
 
-  /*Feature Style End-------*/
+  /*Feature Style End--*/
+
+  .choose{
+    margin-top: 100px;
+  
+  }
+.choose-lett-content{
+
+}
+.choose-lett-content h3{
+  color: #F55;
+  font-family: Clash Display;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; 
+  letter-spacing: 2.88px;
+  text-transform: uppercase;
+
+}
+.choose-lett-content h1{
+  color: #000;
+  font-family: Clash Display;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 48px; 
+  text-transform: capitalize;
+
+}
+.choose-lett-content .cleaver-notification{
+  padding-top: 32px;
+  padding-bottom: 23px;
+}
+.choose-lett-content .cleaver-notification{
+
+}
+.choose-lett-content .cleaver-notification i{
+  padding: 12px 12px;
+  background-color: #F55;
+  color: #fff;
+  border-radius: 50%;
+  margin-right: 10px;
+
+}
+.choose-lett-content p{
+  color: #000;
+  font-family: Clash Display;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; 
+  text-transform: capitalize;
+}
+
+
+
+    /*------Testimonial Style Start----*/
+    .testimonial{
+      margin-top: 100px;
+  
+    }
+    .testimonail-top{
+  
+    }
+    .testimonail-top h3{
+      color: #000;
+      text-align: center;
+      font-family: Clash Display;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 28px; 
+      letter-spacing: 2.88px;
+      text-transform: uppercase;
+  
+    }
+    .testimonail-top h1{
+      color: #000;
+      text-align: center;
+      font-family: Clash Display;
+      font-size: 48px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 48px; 
+      text-transform: capitalize;
+  
+      }
+    .testimonial-left-image{
+  
+    }
+    .testimonial-left-all-content{
+      margin-top: 80px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+  
+    }
+    .testimonial-left-all-content h3{
+      color: #000;
+      font-family: Clash Display;
+      font-size: 28px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 28px;
+      text-transform: capitalize;
+  
+      
+    }
+    .testimonial-left-all-content p{
+      color: #000;
+      font-family: Clash Display;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 28px; 
+      text-transform: capitalize;
+  
+    }
+    .testimonial-left-all-content .profile-picture{
+  
+    }
+    .testimonial-left-all-content h4{
+      color: #000;
+      font-family: Clash Display;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 28px; 
+      text-transform: capitalize;
+  
+    }
+    /*------Testimonial Style End----*/
+    /*----FAQ Style Start----------*/
+    .faq{
+      margin-top: 100px;
+  
+    }
+    .faq-head-line{
+      margin-bottom: 40px;
+  
+    }
+    .faq-head-line h3{
+      color: #F55;
+      font-family: Clash Display;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 28px; 
+      letter-spacing: 2.88px;
+      text-transform: uppercase;
+  
+    }
+    .faq-head-line h1{
+      color: #000;
+      font-family: Clash Display;
+      font-size: 48px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 48px; 
+      text-transform: capitalize;
+  
+    }
+    .faq-left-content{
+  
+    }
+    /*-card-01----*/
+    .faq-left-content .faq-card-1{
+      padding: 24px 30px;
+      border-radius: 8px;
+      background: #F55;
+      padding-top: 50px;
+    }
+  
+    .faq-left-content .faq-card-1 h3{
+      color: #ffffff;
+      font-family: Clash Display;
+      font-size: 28px;
+      font-style: normal;
+      font-weight: 600;
+      text-transform: capitalize;
+    }
+    .faq-left-content .faq-card-1 p{
+      color: #ffffff;
+      text-align: justify;
+      font-family: Clash Display;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 28px; 
+      text-transform: capitalize;
+      padding-top: 10px;
+  
+    }
+    /*--------card-02-----------*/
+    .faq-left-content .faq-card-2{
+      padding: 24px 30px;
+      border-radius: 8px;
+      background: rgb(255, 255, 255);
+      padding-top: 50px;
+    }
+  
+    .faq-left-content .faq-card-2 h3{
+      color: #000000;
+      font-family: Clash Display;
+      font-size: 28px;
+      font-style: normal;
+      font-weight: 600;
+      text-transform: capitalize;
+    }
+    .faq-left-content .faq-card-2 p{
+      color: #000000;
+      text-align: justify;
+      font-family: Clash Display;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 28px; 
+      text-transform: capitalize;
+      padding-top: 10px;
+  
+    }
+    /*-------card-03---------*/
+    .faq-left-content .faq-card-3{
+      padding: 24px 30px;
+      border-radius: 8px;
+      background: #F55;
+      padding-top: 50px;
+    }
+  
+    .faq-left-content .faq-card-3 h3{
+      color: #ffffff;
+      font-family: Clash Display;
+      font-size: 28px;
+      font-style: normal;
+      font-weight: 600;
+      text-transform: capitalize;
+    }
+    .faq-left-content .faq-card-3 p{
+      color: #ffffff;
+      text-align: justify;
+      font-family: Clash Display;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 28px; 
+      text-transform: capitalize;
+      padding-top: 10px;
+  
+    }
+    /*-------card-04------*/
+    .faq-left-content .faq-card-4{
+      padding: 24px 30px;
+      border-radius: 8px;
+      background: rgb(255, 255, 255);
+      padding-top: 50px;
+    }
+  
+    .faq-left-content .faq-card-4 h3{
+      color: #000000;
+      font-family: Clash Display;
+      font-size: 28px;
+      font-style: normal;
+      font-weight: 600;
+      text-transform: capitalize;
+    }
+    .faq-left-content .faq-card-4 p{
+      color: #000000;
+      text-align: justify;
+      font-family: Clash Display;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 28px; 
+      text-transform: capitalize;
+      padding-top: 10px;
+  
+    }
+    /*-------card-05--------*/
+    .faq-left-content .faq-card-5{
+      padding: 24px 30px;
+      border-radius: 8px;
+      background: #F55;
+      padding-top: 50px;
+    }
+  
+    .faq-left-content .faq-card-5 h3{
+      color: #ffffff;
+      font-family: Clash Display;
+      font-size: 28px;
+      font-style: normal;
+      font-weight: 600;
+      text-transform: capitalize;
+    }
+    .faq-left-content .faq-card-5 p{
+      color: #ffffff;
+      text-align: justify;
+      font-family: Clash Display;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 28px; 
+      text-transform: capitalize;
+      padding-top: 10px;
+  
+    }
+    /*------card-06-------*/
+    .faq-left-content .faq-card-6{
+      padding: 24px 30px;
+      border-radius: 8px;
+      background: rgb(255, 255, 255);
+      padding-top: 50px;
+    }
+  
+    .faq-left-content .faq-card-6 h3{
+      color: #000000;
+      font-family: Clash Display;
+      font-size: 28px;
+      font-style: normal;
+      font-weight: 600;
+      text-transform: capitalize;
+    }
+    .faq-left-content .faq-card-6 p{
+      color: #000000;
+      text-align: justify;
+      font-family: Clash Display;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 28px; /* 155.556% */
+      text-transform: capitalize;
+      padding-top: 10px;
+  
+    }
+    /*-------------FAQ Style End------------*/
+    /*----------Download Style Start------------*/
+    .download{
+      margin-top: 100px;
+  
+    }
+    .download-background{
+      background: url(img/download.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+  
+    }
+    .download-left-content{
+      padding-top: 190px;
+      padding-bottom: 157px;
+      padding-left: 77px;
+    }
+    .download-left-content h1{
+      color: #FFF;
+      font-family: Clash Display;
+      font-size: 48px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 48px; 
+      text-transform: capitalize;
+  
+    }
+    .download-left-content p{
+      color: #FFF;
+      font-family: Clash Display;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 28px; 
+      text-transform: capitalize;
+      padding: 12px 0px;
+  
+    }
+    .download-left-content .apple-btn{
+      padding: 16px 22px;
+      border: none;
+      border-radius: 4px;
+      font-family: Clash Display;
+      font-size: 18px;
+      font-weight: 500;
+  
+    }
+    .download-left-content .apple-btn i{
+      font-size: 20px;
+      padding-left: 12px;
+    }
+    /*-------------Download Style End----------------*/
+    /*----------------Footer Style Start-------------*/
+    .footer-start{
+      margin-top: 100px;
+    }
+    .info{
+  
+    }
+    .info .icon{
+      color: #000;
+      font-family: Clash Display;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 26px; /* 162.5% */
+      text-transform: capitalize;
+  
+    }
+    .info .icon p{
+  
+    }
+    .info .icon i{
+      padding-right: 10px;
+      color: #F55;
+      font-size: 20px;
+  
+  
+    }
+    .link{
+      font-family: Clash Display;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 26px; 
+      text-transform: capitalize;
+      text-decoration: none;
+      
+  
+          
+    }
+    .link ul{
+      padding-left: 0px;
+  
+  
+  
+  
+    }
+    .link ul li{
+      list-style: none;
+      color: #000
+    }
+    .link ul li a{
+  ;
+  
+  
+    }
+    .news-letter{
+  
+    }
+    .news-letter h3{
+      color: #000;
+      font-family: Clash Display;
+      font-size: 32px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 42px; 
+      text-transform: capitalize;
+  
+    }
+    .news-letter a{
+      color: #000;
+      font-family: Clash Display;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 26px;
+      text-transform: capitalize;
+    }
+    .scribscriber-btn{
+      margin-top: 16px;
+      position: relative;
+      color: #FFF;
+  
+  font-family: Clash Display;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; 
+  text-transform: capitalize;
+    }
+    .scribscriber-btn input{
+      color: #81848A;
+      font-family: Clash Display;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 26px;
+      padding: 24px 28px;
+      border: none;
+      border-radius: 4px;
+      background: #FFF;
+      cursor: pointer;
+      /* s */
+      box-shadow: -13.01111px 13.01111px 104.08887px 0px rgba(161, 161, 161, 0.10);
+  
+    }
+    .scribscriber-btn .subscribe-btn{
+      padding: 18px 40px;
+      border-radius: 4px;
+      background: #000;
+      color: #fff;
+      position:absolute;
+      top: 0;
+      bottom: 0;
+      transform: translate(-50% -50%);
+    }
+    /*------------Footer Style End--------------*/
+    /*------Copyright Style Start---------*/
+    .copyright{
+      margin-top: 100px;
+  
+    }
+   .copy-border{
+    border-top: 1px solid rgba(22, 22, 22, 0.00);
+   }
+    .copyright-element{
+      color: #000;
+      font-family: Clash Display;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 26px; 
+      text-transform: capitalize;
+      border-top: 1px solid rgba(22, 22, 22, 0.00);
+        }
+    .copyright-element p{
+      border-top: 1px solid rgba(22, 22, 22, 0.00);
+  
+    }
+    
